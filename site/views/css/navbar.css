@@ -1,0 +1,25 @@
+nav {
+    background: turquoise;
+    border: 0px;
+    margin: 0px;
+    padding: 0px;
+}
+/*
+nav .nav_li {
+    list-style: none;
+    padding: 0 0 0 20px;
+
+}
+
+nav .nav_li .nav_opt {
+    height: 50px;
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+nav .nav_li .nav_opt:hover {
+    background: teal;
+    transition-delay: 50ms;
+}
+*/
